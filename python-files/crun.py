@@ -13,3 +13,4 @@ command = "g++ " + args.n
 
 os.system(command)
 os.system("a")
+os.system("del a.exe")
